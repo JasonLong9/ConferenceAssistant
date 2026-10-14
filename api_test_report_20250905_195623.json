@@ -1,0 +1,76 @@
+{
+  "test_time": "2025-09-05T19:56:23.342324",
+  "summary": {
+    "total": 9,
+    "passed": 6,
+    "failed": 3,
+    "errors": 0,
+    "skipped": 0,
+    "success_rate": 66.66666666666666
+  },
+  "details": [
+    {
+      "test_name": "健康检查接口",
+      "status": "PASS",
+      "details": "状态: running",
+      "response_time": 0.010531187057495117,
+      "timestamp": "19:56:23"
+    },
+    {
+      "test_name": "音频上传接口",
+      "status": "PASS",
+      "details": "任务ID: 60d93a32...",
+      "response_time": 0.12251710891723633,
+      "timestamp": "19:56:23"
+    },
+    {
+      "test_name": "任务状态查询",
+      "status": "PASS",
+      "details": "状态: processing, 进度: 30%",
+      "response_time": 0.0065152645111083984,
+      "timestamp": "19:56:23"
+    },
+    {
+      "test_name": "任务状态查询(无效ID)",
+      "status": "PASS",
+      "details": "正确返回404错误",
+      "response_time": 0.0050165653228759766,
+      "timestamp": "19:56:23"
+    },
+    {
+      "test_name": "任务结果获取",
+      "status": "PASS",
+      "details": "任务状态: processing",
+      "response_time": 0.028380393981933594,
+      "timestamp": "19:56:23"
+    },
+    {
+      "test_name": "智能问答接口",
+      "status": "FAIL",
+      "details": "HTTP 400: {\"code\":1,\"msg\":\"任务尚未完成，当前状态: processing\",\"data\":null}",
+      "response_time": 0.009534597396850586,
+      "timestamp": "19:56:23"
+    },
+    {
+      "test_name": "问答状态检查",
+      "status": "FAIL",
+      "details": "响应格式错误",
+      "response_time": 0.02310323715209961,
+      "timestamp": "19:56:23"
+    },
+    {
+      "test_name": "对话历史接口",
+      "status": "FAIL",
+      "details": "响应应为数组格式",
+      "response_time": 0.004525899887084961,
+      "timestamp": "19:56:23"
+    },
+    {
+      "test_name": "API文档接口",
+      "status": "PASS",
+      "details": "Swagger文档可访问",
+      "response_time": 0.0030014514923095703,
+      "timestamp": "19:56:23"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-09-04T22:34:40.906786",
+  "session_creation": {
+    "820_success": true,
+    "828_success": true
+  },
+  "qa_results_820": [
+    {
+      "question": "这次会议识别出了几个发言人？",
+      "error": "{\"code\":1,\"msg\":\"任务尚未完成，当前状态: error\",\"data\":null}",
+      "status_code": 400,
+      "success": false
+    },
+    {
+      "question": "会议的主要议题是什么？",
+      "error": "{\"code\":1,\"msg\":\"任务尚未完成，当前状态: error\",\"data\":null}",
+      "status_code": 400,
+      "success": false
+    },
+    {
+      "question": "系统1.0版本要开发哪些功能？",
+      "error": "{\"code\":1,\"msg\":\"任务尚未完成，当前状态: error\",\"data\":null}",
+      "status_code": 400,
+      "success": false
+    },
+    {
+      "question": "客户是如何分级的，各级收益如何？",
+      "error": "{\"code\":1,\"msg\":\"任务尚未完成，当前状态: error\",\"data\":null}",
+      "status_code": 400,
+      "success": false
+    }
+  ],
+  "qa_results_828": [
+    {
+      "question": "这次会议讨论了什么主题？",
+      "error": "{\"code\":1,\"msg\":\"任务尚未完成，当前状态: error\",\"data\":null}",
+      "status_code": 400,
+      "success": false
+    },
+    {
+      "question": "会议中识别出了几个发言人？",
+      "error": "{\"code\":1,\"msg\":\"任务尚未完成，当前状态: error\",\"data\":null}",
+      "status_code": 400,
+      "success": false
+    },
+    {
+      "question": "会议提到了哪些具体的行动计划？",
+      "error": "{\"code\":1,\"msg\":\"任务尚未完成，当前状态: error\",\"data\":null}",
+      "status_code": 400,
+      "success": false
+    },
+    {
+      "question": "关于AI技术应用有什么讨论？",
+      "error": "{\"code\":1,\"msg\":\"任务尚未完成，当前状态: error\",\"data\":null}",
+      "status_code": 400,
+      "success": false
+    }
+  ],
+  "api_tests": {
+    "history_status": 200,
+    "status_status": 200
+  }
+}

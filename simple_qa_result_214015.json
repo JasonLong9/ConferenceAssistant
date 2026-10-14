@@ -1,0 +1,18 @@
+{
+  "task_id": "simple_test_1756993214",
+  "total_questions": 2,
+  "successful_answers": 0,
+  "qa_results": [
+    {
+      "question": "这次会议的主要内容是什么？",
+      "error": "API调用失败",
+      "success": false
+    },
+    {
+      "question": "项目的利润点设计是怎样的？",
+      "error": "API调用失败",
+      "success": false
+    }
+  ],
+  "timestamp": "2025-09-04T21:40:15.563819"
+}

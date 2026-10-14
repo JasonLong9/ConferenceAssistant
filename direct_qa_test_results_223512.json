@@ -1,0 +1,56 @@
+{
+  "timestamp": "2025-09-04T22:35:12.213636",
+  "qa_results_820": [
+    {
+      "question": "这次会议识别出了几个发言人？",
+      "error": "会话不存在，请先完成会议处理",
+      "success": false
+    },
+    {
+      "question": "会议的主要议题是什么？",
+      "error": "会话不存在，请先完成会议处理",
+      "success": false
+    },
+    {
+      "question": "系统1.0版本要开发哪些功能？",
+      "error": "会话不存在，请先完成会议处理",
+      "success": false
+    },
+    {
+      "question": "客户是如何分级的？",
+      "error": "会话不存在，请先完成会议处理",
+      "success": false
+    }
+  ],
+  "qa_results_828": [
+    {
+      "question": "这次会议讨论了什么主题？",
+      "error": "会话不存在，请先完成会议处理",
+      "success": false
+    },
+    {
+      "question": "会议中识别出了几个发言人？",
+      "error": "会话不存在，请先完成会议处理",
+      "success": false
+    },
+    {
+      "question": "会议提到了哪些具体的行动计划？",
+      "error": "会话不存在，请先完成会议处理",
+      "success": false
+    }
+  ],
+  "history_820": {
+    "success": false,
+    "error": "会话不存在"
+  },
+  "history_828": {
+    "success": false,
+    "error": "会话不存在"
+  },
+  "summary": {
+    "820_questions": 4,
+    "820_success": 0,
+    "828_questions": 3,
+    "828_success": 0
+  }
+}
